@@ -7,7 +7,7 @@ Team Maze is a Java-based project that generates and solves mazes. Users can exp
 - Maram Algaradi - [GitHub](https://github.com/algaradimaram4)
 - Griffin Hulet
 - Jada Thompson
-- Amma Mensah-Dwumfua
+- AmmaDwum
 
 
 ## Project Repository
