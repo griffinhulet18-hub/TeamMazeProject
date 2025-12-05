@@ -29,6 +29,9 @@ Team Maze is a Java-based project that generates and solves mazes. Users can exp
 ## Project Repository
 [TeamMazeProject GitHub Link](https://github.com/griffinhulet18-hub/TeamMazeProject)
 
+Download Link to the whole Porject https://github.com/griffinhulet18-hub/TeamMazeProject/blob/main/MazeProjectG2.zip
+
+
 ---
 
 ## How to Run
